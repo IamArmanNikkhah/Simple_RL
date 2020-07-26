@@ -1,7 +1,7 @@
 # Simple_RL
 really simple reinforcement learning algorithm(vanilla policy gradient) applied on cartpole
 
-An agent learn how to handle an attached pole and getting the maximum reward possible.
+An agent learns how to handle an attached pole and getting the maximum reward possible.
 
 **Game environment:**
 
